@@ -1,6 +1,6 @@
-# Project Name
+# From Pixels to Prepositions
 
-Short description or introduction to the project.
+This code is part of the research done at IIT Madras.
 
 ## Table of Contents
 
@@ -13,7 +13,15 @@ Short description or introduction to the project.
 
 ## Installation
 
-Instructions on how to install the project and its dependencies. Include any prerequisite software or libraries that need to be installed, as well as the installation commands.
+The bare metal code is given in the repo for readability. It includes the model and the training code.
+The analysis and visualization code is not currently included. 
+Also code for logging results in wandb is also removed
 
-```bash
-pip install -r requirements.txt
+### Requirements
+
+- Python 3.x
+- Keras
+- Pandas
+- TensorFlow
+- NumPy
+

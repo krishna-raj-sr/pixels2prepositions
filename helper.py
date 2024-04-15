@@ -22,8 +22,6 @@ def read_image(img_path,size = c.IMAGE_SIZE, colormode = c.COLOR_MODE):
     return img
 
 
-
-
 def split_data(dataset, train_ratio=c.TRAIN_VALIDATION_TEST_RATIO[0], valid_ratio=c.TRAIN_VALIDATION_TEST_RATIO[1], test_ratio=c.TRAIN_VALIDATION_TEST_RATIO[2], random_state=166):
     # Shuffle the dataset
     shuffled_data = dataset.sample(frac=1, random_state=random_state)
@@ -39,6 +37,5 @@ def split_data(dataset, train_ratio=c.TRAIN_VALIDATION_TEST_RATIO[0], valid_rati
     
     return train_data, valid_data, test_data
 
-# Usage:
 
 

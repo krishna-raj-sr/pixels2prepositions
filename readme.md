@@ -2,15 +2,15 @@
 
 This code is part of the research done at IIT Madras.
 
-## Research Paper
+## Research Paper to be updated soon 
 
-**Authors:** John Doe, Jane Smith  
+**Authors:** 
 **Title:** Title of the Paper  
 **Journal/Conference:** Journal/Conference Name  
 **Year:** 2023
-**Link:** [Paper Title](https://example.com/paper)
+**Link:** [Paper Title]
 
-## BibTeX Citation
+## BibTeX Citation will be updated soon
 
 If you want to cite this project in your research paper, you can use the following BibTeX entry:
 
